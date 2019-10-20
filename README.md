@@ -1,3 +1,3 @@
 # Python-Data-Structures
 
-Just some practice writing some common data structures from scratch
+Just getting some practice writing some common data structures from scratch
